@@ -7,7 +7,7 @@
 
 <h1 align="center">MAC Switcher CLI</h1>
 <p align="center"><strong>By Mahdi383-hub</strong></p>
-<p align="center">The ultimate tool to easily change your MAC address.</p>
+<p align="center">The ultimate tool to break your pc.</p>
  
 
 **Ready to test the limits of Windows?** Welcome to the System Destruction Project, a bold and powerful demonstration of advanced techniques to disable a Windows system. Designed exclusively for educational and testing purposes, this project is your playground to explore the resilience of operating systems.
